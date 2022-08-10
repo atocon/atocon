@@ -1,1 +1,1 @@
-![alt text](https://github.com/atocon/atocon/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/atocon/atocon/blob/main/GitHub_Banner.png?raw=true)
