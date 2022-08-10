@@ -1,4 +1,4 @@
-![](https://github.com/atocon/GitHub_Banner.png)
+[](https://github.com/atocon/GitHub_Banner.png)
 
 <!--
 **atocon/atocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
