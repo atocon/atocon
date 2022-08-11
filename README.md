@@ -4,4 +4,4 @@
 
 <h2>Languages & Tools:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?atocon=zluvsand&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atocon&layout=compact"/>
