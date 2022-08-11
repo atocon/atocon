@@ -4,5 +4,5 @@
 
 <h2>Languages & Tools:</h2>
 <img src="https://img.shields.io/badge/-Python-yellow?logo=python&style=plastic" alt="Alt text" title="Optional title">
-
+	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atocon&layout=compact"/>
