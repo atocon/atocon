@@ -2,4 +2,6 @@
 
 <p>Welcome to my page! I am a recent graduate of Boston University's Master of Science in Software Development Program looking to apply my engineering background and coding skills as a full stack developer.</p>
 
+<h1>Languages & Tools:</h1>
+
 ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=atocon&show_icons=true&theme=dark)
