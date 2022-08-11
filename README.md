@@ -12,4 +12,6 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&style=plastic)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=plastic)
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?logo=apachemaven&style=plastic)
-
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&style=plastic)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=plastic)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=plastic)
