@@ -6,5 +6,3 @@
 
 ![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=plastic)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&style=plastic)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atocon&layout=compact"/>
