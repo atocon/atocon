@@ -8,7 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&style=plastic)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&style=plastic)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&style=plastic)
-![Scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&style=plastic)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-lightgrey?logo=scikit-learn&style=plastic)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&style=plastic)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=plastic)
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?logo=apachemaven&style=plastic)
