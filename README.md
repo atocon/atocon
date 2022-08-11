@@ -4,4 +4,4 @@
 
 <h2>Languages & Tools:</h2>
 
-![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=atocon&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?atocon=zluvsand&layout=compact"/>
