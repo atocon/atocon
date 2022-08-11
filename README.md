@@ -3,6 +3,6 @@
 <p>Welcome to my page! I am a recent graduate of Boston University's Master of Science in Software Development Program looking to apply my engineering background and coding skills as a full stack developer.</p>
 
 <h2>Languages & Tools:</h2>
-<img src="https://img.shields.io/badge/-Python-yellow?logo=python&style=plastic" alt="Python">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&style=plastic" alt="Java">
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python&style=plastic)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&style=plastic)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atocon&layout=compact"/>
